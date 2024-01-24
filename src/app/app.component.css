@@ -1,0 +1,14 @@
+main{
+    background-color: #1f1f26;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100dvh;
+}
+
+.angular-title{
+    font-weight: 800;
+    color: #ff5454;
+}
